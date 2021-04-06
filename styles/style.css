@@ -1,1 +1,10 @@
-body { background: #ffffff; font-family: 'Inter', sans-serif; }
+body { 
+    background: #ffffff; 
+    font-family: 'Inter', sans-serif;
+}
+p { 
+    color: red;
+}
+img {
+    border-radius: 6px;
+}
